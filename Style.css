@@ -1,0 +1,151 @@
+.App{
+    text-align: center;
+    direction: rtl;
+    
+}
+  
+  
+body {
+    direction: rtl;
+    min-height: 100%; 
+ 
+}
+
+
+#divFooter{
+  margin-top:calc(5% + 60px);
+  bottom: 0;
+  background: rgb(225, 237, 243); 
+}
+
+.customer{
+  text-align: center;
+
+}
+.detailsOrder{
+  /* text-align: center; */
+  margin-right: 3%;
+}
+.ServicesInOrder{
+  margin-right: 3%;
+
+}
+
+.getorder{
+  margin-right: 5%;
+  margin-left: 5%;
+
+}
+
+.divPayment{
+  /* margin-right: 3%; */
+  border-style: dotted;
+ border-color : rgb(72, 129, 214); 
+  padding: 10px;
+  width: 400px;
+  height: 300px;
+
+}
+
+.tbl{
+  direction: ltr;
+  margin-right: 10%;
+  margin-left: 10%;
+  text-align: center;
+}
+
+.divSend{
+  text-align: center;
+}
+
+.tblReport{
+  direction: ltr;
+
+  margin-right:20%;
+  margin-left: 20%;
+  text-align: center;
+}
+
+.divReport{
+  text-align: center;
+}
+
+
+.printInvoice{
+ 
+  margin:0 auto;
+  margin-top: 5%;
+  height: 600px;
+  width: 500px;
+  text-align: center;
+  border: 7px solid rgba(37, 71, 98, 0.719);
+  border-radius: 12px;
+  border-style: dotted;
+}
+
+
+.divInsert{
+ 
+  margin:0 auto;
+  margin-top: 5%;
+  height: 400px;
+  width: 500px;
+  text-align: center;
+  border: 7px solid rgba(37, 71, 98, 0.719);
+  border-radius: 12px;
+  border-style: dotted;
+}
+
+
+.tblOrder{
+  direction: ltr;
+  text-align: center;
+  margin-right: 5%;
+  margin-left: 5%;
+}
+
+
+.divProduct{
+  margin-right: 5%;
+  margin-left: 5%;
+  text-align: center;
+}
+
+.divProduct div{
+  text-align: right ;
+  
+}
+
+
+
+.divFilter{
+  direction: rtl;
+  text-align: center;
+
+}
+
+
+.footer{
+  background-Color: rgb(230, 227, 227);
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 60px;
+  width: 100%;
+  display: block;   
+  
+}
+
+.divtbl{
+  direction: ltr;
+  text-align: center;
+  margin-right: 5%;
+  margin-left: 5%;
+  
+}
+
+
+
+
